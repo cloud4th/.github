@@ -16,3 +16,7 @@ assignees: ''
 - [ ] {{ task1 }}
 - [ ] {{ task2 }}
 - [ ] {{ task3 }}
+
+## 参照
+
+{{ cloud4th/reposityory_name#issue_number や #issue_number }}

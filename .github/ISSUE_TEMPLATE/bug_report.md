@@ -22,3 +22,7 @@ assignees: ''
 ## 期待する動作
 
 {{ expected_results }}
+
+## 参照
+
+{{ cloud4th/reposityory_name#issue_number や #issue_number }}
